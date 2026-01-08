@@ -2,6 +2,11 @@
 
 A premium education marketplace platform connecting students with coaching institutes across India. Features advanced search, filtering, course management, and multi-role dashboards.
 
+
+EducationMarketplace is an independent online platform designed to bridge the gap between students and coaching institutes.
+The platform allows students to search coaching institutes, filter by category (IT, JEE, NEET, Foundation), compare courses, view ratings, reviews, success rates, and directly contact institutes.
+Coaching institutes can register, create public profiles, showcase courses, add fees, duration, batch timings, and receive student inquiries, making it a complete education discovery marketplace.
+
 ## Features
 
 ### For Students
@@ -246,4 +251,5 @@ For issues or questions about the codebase, please review the code structure and
 
 ---
 
-Built with ❤️
+Built with Autonomous Group 
+if you Want the Fully Project then Conntact Me on rohananilkhachane@gmail.com❤️
