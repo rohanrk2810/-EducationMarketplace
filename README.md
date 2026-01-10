@@ -252,4 +252,4 @@ For issues or questions about the codebase, please review the code structure and
 ---
 
 Built with Autonomous Group 
-if you Want the Fully Project then Conntact Me on rohananilkhachane@gmail.com❤️
+if you Want the Fully Project then Conntact Me on rohananilkhachane@gmail.com /❤️
